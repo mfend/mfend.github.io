@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Michaela Fendrock"
-excerpt: "About me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,4 +12,4 @@ I am a 4th year PhD candidate in the MIT-WHOI Joint Program, primarily advised b
 
 A lifelong Baystater, I grew up in Sudbury, MA and attended Wellesley College where I majored in Geosciences and Astronomy. I then worked as a research assistant at Woods Hole Oceanographic before starting my PhD. I'm an avid cyclist and have a dog named Asha who is my frequent collaborator.
 
-For a deeper dive into my research and interests, take a look at [my CV](/files/fendrock_cv.pdf).
+For a deeper dive into my research and interests, take a look at [my CV](/files/fendrock-cv.pdf).
