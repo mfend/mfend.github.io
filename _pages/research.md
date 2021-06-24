@@ -28,4 +28,6 @@ I used computer vision to classify the variability of textures of lacustrine tuf
 Fendrock, M., Chen, C.Y., Olson, K.J., Lowenstein, T.K., and McGee, D.: "A Computer Vision Algorithm for Interpreting Lacustrine Carbonate Textures at Searles Valley, USA”, 2021. (submitted, email for preprint)
 
 ### Paleolake Shoreline Feature Modeling
+<img align="left" width="100" height="100" src="/images/fingerpoint_spit_edit.png">
+
 For this upcoming work, we will model spits in Bonneville Basin with the goal of constraining the duration of lake level occupancies during the Last Glacial Period. (work with David McGee and Andrew Ashton)
