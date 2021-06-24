@@ -20,7 +20,7 @@ Fendrock, M., Condron, A., and McGee, D.: "A Model for the Effect of Partitionin
 I used computer vision to classify the variability of textures of lacustrine tufa in Searles Valley, CA and compare them to those at Mono Lake, CA, with the goal of tying preserved tufa texture to a lake environment. (work with David McGee)
 
 #### *A Paper*
-Fendrock, M., Chen, C.Y., Olson, K.J., Lowenstein, T.K., and McGee, D.: ”A Computer Vision Algorithm for Interpreting Lacustrine Carbonate Textures at Searles Valley, USA”, 2021. (submitted, email for preprint)
+Fendrock, M., Chen, C.Y., Olson, K.J., Lowenstein, T.K., and McGee, D.: "A Computer Vision Algorithm for Interpreting Lacustrine Carbonate Textures at Searles Valley, USA”, 2021. (submitted, email for preprint)
 
 ### Paleolake Shoreline Feature Modeling
 For this upcoming work, we will model spits in Bonneville Basin with the goal of constraining the duration of lake level occupancies during the Last Glacial Period. (work with David McGee and Andrew Ashton)
