@@ -10,8 +10,10 @@ author_profile: true
 ### Icebergs, How They Carry Sediment
 This project uses the iceberg module of MITgcm to model sediment transport during Heinrich Events. We investigate how the partitioning of sediment in icebergs, as well as the impact of factors like iceberg size, can impact the extent and thickness of Heinrich Layers. (work with Alan Condron)
 
-#### *A Paper*
-Fendrock, M., and Condron, A..: ”Modeling Iceberg Longevity and Distribution During Heinrich Events”, 2021. (in prep)
+#### *Some Papers*
+Fendrock, M., Condron, A., and McGee, D.: ”Modeling Iceberg Longevity and Distribution During Heinrich Events”, 2021. (in prep)
+Fendrock, M., Condron, A., and McGee, D.: ”A Model for the Effect of Partitioning Sediments in Icebergs on Heinrich Layer Extents”, 2021. (in prep)
+
 
 ### Machine Learning and Tufa Textures
 I used computer vision to classify the variability of textures of lacustrine tufa in Searles Valley, CA and compare them to those at Mono Lake, CA, with the goal of tying preserved tufa texture to a lake environment. (work with David McGee)
