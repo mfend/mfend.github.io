@@ -11,9 +11,9 @@ author_profile: true
 This project uses the iceberg module of MITgcm to model sediment transport during Heinrich Events. We investigate how the partitioning of sediment in icebergs, as well as the impact of factors like iceberg size, can impact the extent and thickness of Heinrich Layers. (work with Alan Condron)
 
 #### *Some Papers*
-Fendrock, M., Condron, A., and McGee, D.: ”Modeling Iceberg Longevity and Distribution During Heinrich Events”, 2021. (in prep)
+Fendrock, M., Condron, A., and McGee, D.: "Modeling Iceberg Longevity and Distribution During Heinrich Events”, 2021. (in prep)
 
-Fendrock, M., Condron, A., and McGee, D.: ”A Model for the Effect of Partitioning Sediments in Icebergs on Heinrich Layer Extents”, 2021. (in prep)
+Fendrock, M., Condron, A., and McGee, D.: "A Model for the Effect of Partitioning Sediments in Icebergs on Heinrich Layer Extents”, 2021. (in prep)
 
 
 ### Machine Learning and Tufa Textures
