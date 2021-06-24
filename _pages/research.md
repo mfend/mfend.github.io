@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### Icebergs, How They Carry Sediment
-<img align="left" width="200" height="200" src="/images/norm_warm_envelopes.png">
+<img align="left" width="250" height="200" src="/images/norm_warm_envelopes.png">
 
 
 This project uses the iceberg module of MITgcm to model sediment transport during Heinrich Events. We investigate how the partitioning of sediment in icebergs, as well as the impact of factors like iceberg size, can impact the extent and thickness of Heinrich Layers. (work with Alan Condron)
@@ -21,7 +21,7 @@ Fendrock, M., Condron, A., and McGee, D.: "A Model for the Effect of Partitionin
 
 
 ### Machine Learning and Tufa Textures
-<img align="left" width="200" height="200" src="/images/figure_2.png">
+<img align="left" width="250" height="200" src="/images/figure_2.png">
 
 
 I used computer vision to classify the variability of textures of lacustrine tufa in Searles Valley, CA and compare them to those at Mono Lake, CA, with the goal of tying preserved tufa texture to a lake environment. (work with David McGee)
@@ -30,6 +30,6 @@ I used computer vision to classify the variability of textures of lacustrine tuf
 Fendrock, M., Chen, C.Y., Olson, K.J., Lowenstein, T.K., and McGee, D.: "A Computer Vision Algorithm for Interpreting Lacustrine Carbonate Textures at Searles Valley, USA”, 2021. (submitted, email for preprint)
 
 ### Paleolake Shoreline Feature Modeling
-<img align="left" width="200" height="200" src="/images/fingerpoint_spit_edit.png">
+<img align="left" width="250" height="200" src="/images/fingerpoint_spit_edit.png">
 
 For this upcoming work, we will model spits in Bonneville Basin with the goal of constraining the duration of lake level occupancies during the Last Glacial Period. (work with David McGee and Andrew Ashton)
