@@ -12,6 +12,7 @@ This project uses the iceberg module of MITgcm to model sediment transport durin
 
 #### *Some Papers*
 Fendrock, M., Condron, A., and McGee, D.: ”Modeling Iceberg Longevity and Distribution During Heinrich Events”, 2021. (in prep)
+
 Fendrock, M., Condron, A., and McGee, D.: ”A Model for the Effect of Partitioning Sediments in Icebergs on Heinrich Layer Extents”, 2021. (in prep)
 
 
