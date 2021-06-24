@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Teaching Philosophy
-======
+##### Teaching Philosophy
 I believe in student-centered curricula that are thoughtfully designed for specific, measurable learning outcomes. 
 There is a wealth of research about how students best learn, and I believe that it's our duty as teachers to take 
 advantage of that literature, to best serve our students. Central to this philosophy are concepts of empathy and fostering
