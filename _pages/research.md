@@ -10,7 +10,7 @@ author_profile: true
 ### Icebergs, How They Carry Sediment
 This project uses the iceberg module of MITgcm to model sediment transport during Heinrich Events. We investigate how the partitioning of sediment in icebergs, as well as the impact of factors like iceberg size, can impact the extent and thickness of Heinrich Layers. (work with Alan Condron)
 ```
-<img align="left" width="100" height="100" src="norm_warm_envelopes.png">
+<img align="left" width="100" height="100" src="/images/norm_warm_envelopes.png">
 ```
 
 
