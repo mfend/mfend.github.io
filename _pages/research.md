@@ -15,7 +15,7 @@ This project uses the iceberg module of MITgcm to model sediment transport durin
 
 
 #### *Some Papers*
-Fendrock, M., Condron, A., and McGee, D.: "Modeling Iceberg Longevity and Distribution During Heinrich Events”, 2021. (in review, email for preprint)
+Fendrock, M., Condron, A., and McGee, D.: "Modeling Iceberg Longevity and Distribution During Heinrich Events”, 2021. (in revisions, email for preprint)
 
 Fendrock, M., Condron, A., and McGee, D.: "A Model for the Effect of Partitioning Sediments in Icebergs on Heinrich Layer Extents”, 2021. (in prep)
 
@@ -27,7 +27,7 @@ Fendrock, M., Condron, A., and McGee, D.: "A Model for the Effect of Partitionin
 I used computer vision to classify the variability of textures of lacustrine tufa in Searles Valley, CA and compare them to those at Mono Lake, CA, with the goal of tying preserved tufa texture to a lake environment. (work with David McGee)
 
 #### *A Paper*
-Fendrock, M., Chen, C.Y., Olson, K.J., Lowenstein, T.K., and McGee, D.: "A Computer Vision Algorithm for Interpreting Lacustrine Carbonate Textures at Searles Valley, USA”, 2021. (in review, email for preprint)
+Fendrock, M., Chen, C.Y., Olson, K.J., Lowenstein, T.K., and McGee, D.: "A Computer Vision Algorithm for Interpreting Lacustrine Carbonate Textures at Searles Valley, USA”, 2021. (in revisions, email for preprint)
 
 ### Paleolake Shoreline Feature Modeling
 <img align="left" width="250" height="200" src="/images/fingerpoint_spit_edit.png">
